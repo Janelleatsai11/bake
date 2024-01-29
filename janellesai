@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Janelle Sai- Personal Branding</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f8f8f8;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    header {
+      background-color: #795548; /* Bakery-inspired color */
+      color: #fff;
+      text-align: center;
+      padding: 1em 0;
+    }
+
+    section {
+      padding: 2em;
+    }
+
+    h1, h2 {
+      color: #795548; /* Bakery-inspired color */
+    }
+
+    .lessons, .payment { GHc50.00 / $8.10 / 6.39 pounds
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 1em 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>janelle sai </h1>
+    <p>Personal Branding with a Bakery Touch</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Welcome to my personal brand! I am passionate about [Baking for others yeah] and love sharing my knowledge with the world.</p>
+  </section>
+
+  <section id="lessons" class="lessons">
+    <h2>Online Lessons</h2>
+    <p>Explore my online lessons to enhance your skills in [baking]. Knowledge is a journey, and I'm here to guide you every step of the way.</p>
+  </section>
+
+  <section id="payment" class="payment">
+    <h2>Premium Content</h2>
+    <p>For a more in-depth learning experience, access exclusive premium content by making a payment. Unlock advanced lessons, resources, and personalized support.</p>
+    <!-- Add your payment button or link here --> <section id="payment" class="payment">
+   <h2>Mobile Money Payment</h2>
+   <p>Make payments for premium content through mobile money using the following instructions:</p>
+
+   <ul>
+      <li>Mobile Money Service: [MTN Mobile Money]</li>
+      <li>Account/Phone Number: [0557781488]</li>
+      <li>Reference: Janelle - Premium Content</li>
+   </ul>
+
+   <p>After making the mobile money payment, kindly send a confirmation message to [janelle.saip2@email.com] with the payment details for processing.</p>
+</section>
+
+  </section>
+
+    <p>Have questions or want to get in touch? Feel free to reach out to me via email at [janelle.saip2@email.com].</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 janelle. All rights reserved.</p>
+  </footer>
+</body>
+</html>
